@@ -73,10 +73,6 @@ CHART TASKS (in chartTable.csv order):
 - plotAEFiscalRisks:            AE Fiscal Risks horizontal bars (Figure 1.35)
                                 In: 2026AprFiscalMonitorDatabase.xlsx | Out: ae_fiscal_risks.png
 
-EXTRAS (not in chartTable.csv):
---------------------------------------------------------------------------------
-- buildSpeakingHandout:         Build speaker-notes handout PDF (slide image + notes)
-
 - run-all:                      Execution of full workflow
 
 Main entry point: invoke run-all
@@ -391,21 +387,6 @@ def plotAEFiscalRisks(c):
     """
     path = os.path.join(SCRIPT_DIR, "plotAEFiscalRisks.py")
     print(f"--- Generating AE Fiscal Risks Chart ---")
-    c.run(f"{sys.executable} {path}")
-
-# =============================================================================
-# EXTRAS (not part of chartTable.csv slide sequence)
-# =============================================================================
-
-@task
-def buildSpeakingHandout(c):
-    """
-    Build a speaker-notes handout PDF: each page = slide image + parsed notes.
-    In: 2026-05_FM-outreach_PL-fiscal-council.pdf, 2026-05_FM-outreach_PL-fiscal-council_speaking.md
-    Out: 2026-05_FM-outreach_PL-fiscal-council_speaking.pdf
-    """
-    path = os.path.join(SCRIPT_DIR, "buildSpeakingHandout.py")
-    print(f"--- Building speaker-notes handout ---")
     c.run(f"{sys.executable} {path}")
 
 # =============================================================================

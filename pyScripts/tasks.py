@@ -75,8 +75,6 @@ CHART TASKS (in chartTable.csv order):
 
 EXTRAS (not in chartTable.csv):
 --------------------------------------------------------------------------------
-- globalPrimBalanceForGap:      Global Primary Balance by Income Group
-                                Out: global_primary_balance_by_group.png
 - buildSpeakingHandout:         Build speaker-notes handout PDF (slide image + notes)
 
 - run-all:                      Execution of full workflow
@@ -400,16 +398,6 @@ def plotAEFiscalRisks(c):
 # =============================================================================
 
 @task
-def globalPrimBalanceForGap(c):
-    """
-    Generate Global Primary Balance by Income Group.
-    In: WEO_enhanced.dta | Out: global_primary_balance_by_group.png
-    """
-    path = os.path.join(SCRIPT_DIR, "plotGlobalPrimBalanceForGap.py")
-    print(f"--- Generating Global Primary Balance for Gap ---")
-    c.run(f"{sys.executable} {path}")
-
-@task
 def buildSpeakingHandout(c):
     """
     Build a speaker-notes handout PDF: each page = slide image + parsed notes.
@@ -424,8 +412,7 @@ def buildSpeakingHandout(c):
 # FULL WORKFLOW (chartTable.csv order, data prep first)
 # =============================================================================
 
-@task(pre=[globalPrimBalanceForGap,
-           plotUncertainty, analyzeFoodEnergyBooms, plotGlobalOutlook,
+@task(pre=[plotUncertainty, analyzeFoodEnergyBooms, plotGlobalOutlook,
            plotGlobalInterestRates, plotInterestRates, plotTermPremia,
            plotGlobeDebtWaterfall, plotCountryDebtWaterfall, plotChinaUSDominance,
            plotDebtOwnership, summarizeBloombergCountryDebt, plotCumulativeDist,

@@ -6,11 +6,6 @@ FM-KB Outreach Warsaw May 2026 materials.
 
 Tasks are ordered to match the slide/chart sequence in chartTable.csv.
 
-DATA PREP:
---------------------------------------------------------------------------------
-- retrieveGlobalGrowth:         Retrieve Global Real GDP Growth (NGDP_RPCH for isocode 001)
-                                In: WEO_LIVE | Out: global_real_gdp_growth.csv
-
 CHART TASKS (in chartTable.csv order):
 --------------------------------------------------------------------------------
 - plotUncertainty:              Global Policy Uncertainty Indices (slide 2 left)
@@ -98,20 +93,6 @@ import sys
 # Configuration: Path to your scripts
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 APR26_SCRIPT_DIR = os.path.join(os.path.dirname(SCRIPT_DIR), "2025-12_FM-Apr26")
-
-# =============================================================================
-# DATA PREP
-# =============================================================================
-
-@task
-def retrieveGlobalGrowth(c):
-    """
-    Retrieve Global Real GDP Growth (NGDP_RPCH for isocode 001).
-    In: WEO_LIVE | Out: global_real_gdp_growth.csv
-    """
-    path = os.path.join(SCRIPT_DIR, "retrieveGlobalGrowth.py")
-    print(f"--- Retrieving Global Real GDP Growth ---")
-    c.run(f"{sys.executable} {path}")
 
 # =============================================================================
 # CHART TASKS (ordered to match chartTable.csv)
@@ -455,7 +436,7 @@ def buildSpeakingHandout(c):
 # FULL WORKFLOW (chartTable.csv order, data prep first)
 # =============================================================================
 
-@task(pre=[retrieveGlobalGrowth, globalPrimBalanceForGap,
+@task(pre=[globalPrimBalanceForGap,
            plotUncertainty, analyzeFoodEnergyBooms, plotGlobalOutlook,
            plotGlobalInterestRates, plotInterestRates, plotTermPremia,
            plotGlobeDebtWaterfall, plotCountryDebtWaterfall, plotChinaUSDominance,

@@ -62,8 +62,6 @@ CHART TASKS (in chartTable.csv order):
                                 In: 2026AprFiscalMonitorDatabase.xlsx | Out: oda_flows_grouped.png
 - plotDaR:                      Debt-at-Risk charts (density + scenario bars)
                                 In: global_dar.xlsx, density_scenario3_WLD_h3.xlsx | Out: debt_at_risk_density.png, debt_at_risk_adverse.png, debt_at_risk_ai.png
-- plotSocialUnrest:             Social Unrest / political instability (Figure 1.27)
-                                In: 2026AprFiscalMonitorDatabase.xlsx | Out: social_unrest_events.png, social_unrest_irf.png
 - plotConvenienceYield:         Convenience Yield charts (daily + medians, Figure 1.29)
                                 In: 2026AprFiscalMonitorDatabase.xlsx | Out: convenience_yield_daily.png, convenience_yield_medians.png
 - plotDebtRollover:             Debt Rollover simulation bars (Figure 1.30)
@@ -348,16 +346,6 @@ def plotDaR(c):
     c.run(f"{sys.executable} {path}")
 
 @task
-def plotSocialUnrest(c):
-    """
-    Generate Social Unrest / Political Instability Charts.
-    In: 2026AprFiscalMonitorDatabase.xlsx (Figure 1.27) | Out: social_unrest_events.png, social_unrest_irf.png
-    """
-    path = os.path.join(SCRIPT_DIR, "plotSocialUnrest.py")
-    print(f"--- Generating Social Unrest Charts ---")
-    c.run(f"{sys.executable} {path}")
-
-@task
 def plotConvenienceYield(c):
     """
     Generate Convenience Yield Charts (daily + medians).
@@ -445,7 +433,7 @@ def buildSpeakingHandout(c):
            customDutiesUS, plotOBBBFiscalEffects, plotChinaDebtSwap, plotFiscalStance,
            plotSnowballAE, plotDefenseSpendingAutocorr, plotBondRadar,
            plotEMSpreadsWaterfall, plotLowIncomeInterestRev, plotODAflows, plotDaR,
-           plotSocialUnrest, plotConvenienceYield, plotDebtRollover, plotTreasurySpillovers,
+           plotConvenienceYield, plotDebtRollover, plotTreasurySpillovers,
            plotEMDEFiscalRisks, plotAEFiscalRisks])
 def run_all(c):
     """Run all tasks."""

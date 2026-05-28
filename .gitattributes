@@ -1,0 +1,40 @@
+# Normalize line endings and auto-detect text
+* text=auto eol=lf
+
+# Source / config
+*.py        text eol=lf
+*.json      text eol=lf
+*.md        text eol=lf
+*.txt       text eol=lf
+*.csv       text eol=lf
+*.tsv       text eol=lf
+*.html      binary
+*.svg       binary
+
+# Data formats (binary)
+*.xlsx      filter=lfs diff=lfs merge=lfs -text
+*.xls       binary
+*.dta       filter=lfs diff=lfs merge=lfs -text
+*.rds       binary
+*.parquet   binary
+*.feather   binary
+*.h5        binary
+*.npz       binary
+*.npy       binary
+*.pkl       binary
+
+# Documents / images (binary)
+*.pdf       filter=lfs diff=lfs merge=lfs -text
+*.pptx      filter=lfs diff=lfs merge=lfs -text
+*.ppt       binary
+*.docx      binary
+*.doc       binary
+*.png       binary
+*.jpg       binary
+*.jpeg      binary
+*.gif       binary
+*.zip       binary
+
+# GitHub language stats: hide generated outputs and vendored data from repo summary
+docu/**     linguist-generated
+data/**     linguist-vendored

@@ -1,0 +1,8 @@
+CHART METADATA: DEBT DECOMPOSITION WATERFALL PANEL (2025-31)
+==================================================
+TITLE: Decomposition of the Change in General Government Debt, 2025–31 (Global and Poland)
+UNITS: Percent of GDP
+SOURCES: IMF, World Economic Outlook database; and IMF staff calculations.
+
+NOTE: Each panel decomposes the change in the debt-to-GDP ratio between 2025 and 2031 into its primary drivers: the cumulative primary deficit, the snowball effect components (interest rate r, real GDP growth g, and GDP deflator growth), and stock-flow adjustments. Left: global aggregate. Right: Poland. Positive values increase the debt ratio.
+==================================================

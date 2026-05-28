@@ -1,0 +1,8 @@
+CHART METADATA: GLOBAL DEBT COUNTRY DECOMPOSITION (2025-30)
+==================================================
+TITLE: Contribution of Major Economies to the Change in Global Public Debt, 2025–30
+UNITS: Percentage points of global GDP
+SOURCES: IMF, World Economic Outlook database; and IMF staff calculations.
+
+NOTE: The chart decomposes the projected change in the global-debt-to-GDP ratio between 2025 and 2031 into contributions from individual countries and groups. The contribution of each entity depends on its projected change in debt and its economic weight (GDP in USD). Positive values indicate contributions that increase the global debt ratio. Note: A country may show a positive contribution even with a falling domestic debt ratio if its weight in global GDP is projected to increase significantly (compositional effect).
+==================================================

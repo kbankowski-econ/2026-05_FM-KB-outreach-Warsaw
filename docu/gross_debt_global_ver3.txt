@@ -1,0 +1,86 @@
+GROSS DEBT GLOBAL (VER3): CONTRIBUTION ANALYSIS
+============================================================
+
+Countries are classified based on TOTAL PERIOD CHANGE:
+- Period 1 (2015-2025): classification by 2025-2015 change
+- Period 2 (2026-2031): classification by 2031-2025 change
+
+============================================================
+PERIOD 1: 2015-2025
+============================================================
+
+TOTAL POSITIVE CHANGE (Other positive): 5.24 pp
+
+TOP 10 CONTRIBUTORS (2025-2015 change):
+----------------------------------------
+  IND: +0.8763
+  SGP: +0.4787
+  CAN: +0.3380
+  SAU: +0.2933
+  IDN: +0.1960
+  POL: +0.1932
+  FRA: +0.1887
+  AUS: +0.1821
+  MEX: +0.1438
+  ROU: +0.1274
+
+  Top 10 sum: 3.02 pp
+  Top 10 explains: 57.6% of total
+
+TOTAL NEGATIVE CHANGE (Other negative): -6.40 pp
+
+TOP 10 CONTRIBUTORS (2025-2015 change):
+----------------------------------------
+  JPN: -4.2022
+  DEU: -0.5224
+  ITA: -0.3169
+  NLD: -0.1631
+  EGY: -0.1183
+  GRC: -0.1155
+  SWE: -0.0959
+  IRL: -0.0945
+  LKA: -0.0856
+  IRN: -0.0820
+
+  Top 10 sum: -5.80 pp
+  Top 10 explains: 90.6% of total
+
+============================================================
+PERIOD 2: 2026-2031
+============================================================
+
+TOTAL POSITIVE CHANGE (Other positive): 3.26 pp
+
+TOP 10 CONTRIBUTORS (2031-2025 change):
+----------------------------------------
+  IND: +0.5581
+  BRA: +0.4806
+  DEU: +0.2772
+  POL: +0.2033
+  SAU: +0.1202
+  MEX: +0.1172
+  KOR: +0.1154
+  RUS: +0.1064
+  IDN: +0.0991
+  ISR: +0.0712
+
+  Top 10 sum: 2.15 pp
+  Top 10 explains: 66.0% of total
+
+TOTAL NEGATIVE CHANGE (Other negative): -3.36 pp
+
+TOP 10 CONTRIBUTORS (2031-2025 change):
+----------------------------------------
+  JPN: -1.4886
+  ITA: -0.2616
+  VEN: -0.2608
+  ARG: -0.1732
+  CAN: -0.1693
+  FRA: -0.1576
+  ESP: -0.1441
+  NOR: -0.1026
+  GRC: -0.0854
+  ECU: -0.0601
+
+  Top 10 sum: -2.90 pp
+  Top 10 explains: 86.5% of total

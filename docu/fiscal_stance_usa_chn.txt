@@ -1,0 +1,8 @@
+CHART METADATA: FISCAL STANCE EVOLUTION - USA vs CHINA
+==================================================
+TITLE: Fiscal Stance Evolution (2015-2031)
+X-AXIS: Primary Balance (Percent of GDP)
+Y-AXIS: Output Gap (Percent of potential GDP)
+SOURCES: IMF, World Economic Outlook database; and IMF staff calculations.
+NOTE: Each dot represents a year. Lines indicate the temporal trajectory from 2015 to 2031.
+==================================================

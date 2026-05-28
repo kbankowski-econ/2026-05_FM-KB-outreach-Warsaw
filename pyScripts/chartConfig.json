@@ -1,0 +1,64 @@
+{
+    "styling": {
+        "template": "simple_white",
+        "font_size": 20,
+        "width": 605,
+        "height": 378,
+        "margins": {
+            "t": 30,
+            "b": 30,
+            "l": 25,
+            "r": 25
+        },
+        "legend": {
+            "orientation": "h",
+            "yanchor": "bottom",
+            "y": 1.02,
+            "xanchor": "center",
+            "x": 0.5,
+            "font_size": 12
+        },
+        "axes": {
+            "linecolor": "black",
+            "linewidth": 1.5,
+            "mirror": false,
+            "ticks": "inside",
+            "showgrid": true,
+            "gridcolor": "rgba(0,0,0,0.15)",
+            "gridwidth": 0.5,
+            "zeroline": true,
+            "zerolinewidth": 1.5,
+            "tickfont_size": 14
+        },
+        "colors": {
+            "primary": "#6A1B9A",
+            "primary_light": "#CE93D8",
+            "primary_dark": "#4A148C",
+            "primary_rgb": "106, 27, 154",
+            "secondary": "#1565C0",
+            "positive": "#00897B",
+            "negative": "#E65100",
+            "neutral": "#757575",
+            "palette": ["#00838F", "#5E35B1", "#6A1B9A", "#AD1457", "#E65100"]
+        },
+        "line_widths": {
+            "standard": 2.5,
+            "thick": 3.5,
+            "weighted_avg": 4,
+            "median": 2
+        },
+        "combined_charts": {
+            "target_years": [
+                2015,
+                2020,
+                2025,
+                2030
+            ],
+            "x_range": [
+                2014.5,
+                2030.5
+            ],
+            "iqr_opacity": 0.15
+        }
+    }
+}

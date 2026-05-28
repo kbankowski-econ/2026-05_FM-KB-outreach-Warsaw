@@ -1,0 +1,8 @@
+CHART: UNITED STATES: IMPACT OF THE OBBB PROGRAM ON THE FISCAL DEFICIT
+============================================================
+UNITS:   Percent of GDP
+SOURCES: Congressional Budget Office; and IMF staff calculations.
+
+NARRATIVE:
+This chart decomposes the fiscal impact of the OBBB program across various tax and spending categories. The stacked bars represent individual components, while the black line shows the total net effect on the primary balance.
+============================================================

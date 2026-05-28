@@ -1,0 +1,8 @@
+CHART: PERSISTENCE OF PUBLIC SPENDING CATEGORIES
+============================================================
+UNITS:   Autocorrelation Coefficient
+SOURCES: IMF staff calculations.
+
+NARRATIVE:
+This chart compares the persistence of defense spending with other public spending categories. Persistence is measured by the AR(1) coefficient using a simple average.
+============================================================

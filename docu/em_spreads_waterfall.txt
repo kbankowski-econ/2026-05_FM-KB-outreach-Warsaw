@@ -1,0 +1,8 @@
+CHART: EM SPREADS: DECOMPOSITION OF RECENT CHANGES
+============================================================
+UNITS:   Basis Points
+SOURCES: IMF staff calculations.
+
+NARRATIVE:
+This waterfall chart decomposes the changes in Emerging Market spreads into various contributing factors. The bars show the relative impact of each factor, starting from a baseline and reaching the final observed spread change.
+============================================================

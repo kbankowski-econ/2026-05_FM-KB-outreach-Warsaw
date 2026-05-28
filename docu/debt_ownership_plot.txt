@@ -1,0 +1,8 @@
+CHART METADATA: DEBT OWNERSHIP DECOMPOSITION
+==================================================
+TITLE: Decomposition of General Government Debt by Holder
+UNITS: Percent of GDP (Relative Change)
+SOURCES: IMF staff calculations based on national authorities.
+
+NOTE: Bars represent the contribution of different holder categories to the change in government debt. 'Total' reflects the sum of these components, while 'Total WEO' provides the comparison against WEO headline debt data.
+==================================================

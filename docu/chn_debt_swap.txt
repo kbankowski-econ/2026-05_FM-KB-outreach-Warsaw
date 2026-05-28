@@ -1,0 +1,9 @@
+CHART: LOCAL GOVERNMENT DEBT MATURITY AND THE 'SWAP' EFFECT
+============================================================
+UNITS:   RMB Trillion
+SOURCES: Ministry of Finance (MoF); China Electronic Local Government Bond Market Access (CELMA); and Haver Analytics.
+CODES:   N924FIWL (Swap/Refinancing), N924FIRL (Repayments)
+
+NARRATIVE:
+Visualizes the RMB 10 trillion debt swap program. The massive spike in refinancing bond issuance in late 2024 is designed to 'cover' peaking LGFV maturities, effectively moving 'hidden' debt into official bonds to reduce interest costs. The more the bars exceed the line, the faster the 'Hidden Debt' is being cleaned up.
+============================================================

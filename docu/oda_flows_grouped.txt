@@ -1,0 +1,6 @@
+CHART: OFFICIAL DEVELOPMENT ASSISTANCE BY ECONOMY GROUP
+============================================================
+UNITS:   Percent of GDP
+SOURCES: IMF staff calculations.
+
+============================================================

@@ -1,0 +1,7 @@
+step,impulse_response,irf,lower,band_width,upper
+0,rsui : ggxonlb_gdp,-0.141,-0.2359,0.1897,-0.0462
+1,rsui : ggxonlb_gdp,-0.1878,-0.3366,0.2976,-0.0391
+2,rsui : ggxonlb_gdp,-0.2262,-0.4243,0.3961,-0.0282
+3,rsui : ggxonlb_gdp,-0.1958,-0.3715,0.3514,-0.0202
+4,rsui : ggxonlb_gdp,-0.1589,-0.3075,0.2971,-0.0104
+5,rsui : ggxonlb_gdp,-0.1232,-0.2432,0.2398,-0.0033

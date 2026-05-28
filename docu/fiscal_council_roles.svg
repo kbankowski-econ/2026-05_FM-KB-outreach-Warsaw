@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520">
+<rect x="0.0" y="0.0" width="1280.0" height="520.0" rx="0" ry="0" fill="#FFFFFF"/>
+<rect x="40.0" y="20.5" width="1200.0" height="87.0" rx="12" ry="12" fill="#F6EFFA"/>
+<rect x="40.0" y="20.5" width="18.0" height="87.0" rx="12" ry="12" fill="#6A1B9A"/>
+<rect x="46.0" y="20.5" width="12.0" height="87.0" rx="12" ry="12" fill="#F6EFFA"/>
+<circle cx="118" cy="64.0" r="27" fill="#FFFFFF" stroke="#CE93D8" stroke-width="1.6"/>
+<polyline points="106,52.0 106,76.0 131,76.0" fill="none" stroke="#6A1B9A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><polyline points="111,69.0 117,61.0 122,65.0 129,55.0" fill="none" stroke="#6A1B9A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="170.0" y="52.5" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#4A148C" text-anchor="start">Macro-Fiscal Evaluation</text>
+<text x="170.0" y="73.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#3A3A3A" text-anchor="start">Mandated to evaluate the quality and realism of the macro-fiscal projections that underpin the Medium-Term Fiscal</text>
+<text x="170.0" y="94.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#3A3A3A" text-anchor="start">Framework and the SER formula.</text>
+<rect x="40.0" y="118.5" width="1200.0" height="87.0" rx="12" ry="12" fill="#F6EFFA"/>
+<rect x="40.0" y="118.5" width="18.0" height="87.0" rx="12" ry="12" fill="#6A1B9A"/>
+<rect x="46.0" y="118.5" width="12.0" height="87.0" rx="12" ry="12" fill="#F6EFFA"/>
+<circle cx="118" cy="162.0" r="27" fill="#FFFFFF" stroke="#CE93D8" stroke-width="1.6"/>
+<line x1="109" y1="149.0" x2="109" y2="175.0" fill="none" stroke="#6A1B9A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M 109 149.0 L 129 154.0 L 109 160.0 Z" fill="none" stroke="#6A1B9A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="170.0" y="150.5" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#4A148C" text-anchor="start">Escape Clause Stewardship</text>
+<text x="170.0" y="171.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#3A3A3A" text-anchor="start">Monitors the activation and extension of escape clauses, assesses the costing of extraordinary measures, and</text>
+<text x="170.0" y="192.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#3A3A3A" text-anchor="start">oversees the return path to rule limits.</text>
+<rect x="40.0" y="216.5" width="1200.0" height="87.0" rx="12" ry="12" fill="#F6EFFA"/>
+<rect x="40.0" y="216.5" width="18.0" height="87.0" rx="12" ry="12" fill="#6A1B9A"/>
+<rect x="46.0" y="216.5" width="12.0" height="87.0" rx="12" ry="12" fill="#F6EFFA"/>
+<circle cx="118" cy="260.0" r="27" fill="#FFFFFF" stroke="#CE93D8" stroke-width="1.6"/>
+<rect x="106" y="249.0" width="24" height="25" rx="3" fill="none" stroke="#6A1B9A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><rect x="113" y="244.0" width="10" height="7" rx="2" fill="none" stroke="#6A1B9A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><polyline points="112,262.0 117,267.0 125,256.0" fill="none" stroke="#6A1B9A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="170.0" y="248.5" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#4A148C" text-anchor="start">Compliance Oversight</text>
+<text x="170.0" y="269.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#3A3A3A" text-anchor="start">Provides detailed ex-ante and ex-post assessments of adherence to the SER, bridging the current gap in independent</text>
+<text x="170.0" y="290.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#3A3A3A" text-anchor="start">retrospective and prospective analysis.</text>
+<rect x="40.0" y="314.5" width="1200.0" height="87.0" rx="12" ry="12" fill="#F6EFFA"/>
+<rect x="40.0" y="314.5" width="18.0" height="87.0" rx="12" ry="12" fill="#6A1B9A"/>
+<rect x="46.0" y="314.5" width="12.0" height="87.0" rx="12" ry="12" fill="#F6EFFA"/>
+<circle cx="118" cy="358.0" r="27" fill="#FFFFFF" stroke="#CE93D8" stroke-width="1.6"/>
+<path d="M 118 345.0 L 129 350.0 L 129 359.0 Q 129 368.0 118 371.0 Q 107 368.0 107 359.0 L 107 350.0 Z" fill="none" stroke="#6A1B9A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><polyline points="113,358.0 117,363.0 124,353.0" fill="none" stroke="#6A1B9A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="170.0" y="346.5" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#4A148C" text-anchor="start">Sustainability Safeguards</text>
+<text x="170.0" y="367.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#3A3A3A" text-anchor="start">Conducts regular debt sustainability analyses (DSA) to ensure national fiscal policy remains consistent with</text>
+<text x="170.0" y="388.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#3A3A3A" text-anchor="start">long-term objectives and the new EU framework.</text>
+<rect x="40.0" y="412.5" width="1200.0" height="87.0" rx="12" ry="12" fill="#F6EFFA"/>
+<rect x="40.0" y="412.5" width="18.0" height="87.0" rx="12" ry="12" fill="#6A1B9A"/>
+<rect x="46.0" y="412.5" width="12.0" height="87.0" rx="12" ry="12" fill="#F6EFFA"/>
+<circle cx="118" cy="456.0" r="27" fill="#FFFFFF" stroke="#CE93D8" stroke-width="1.6"/>
+<polyline points="105,451.0 118,442.0 131,451.0" fill="none" stroke="#6A1B9A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><line x1="105" y1="451.0" x2="131" y2="451.0" fill="none" stroke="#6A1B9A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><line x1="109" y1="451.0" x2="109" y2="465.0" fill="none" stroke="#6A1B9A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><line x1="118" y1="451.0" x2="118" y2="465.0" fill="none" stroke="#6A1B9A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><line x1="127" y1="451.0" x2="127" y2="465.0" fill="none" stroke="#6A1B9A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><line x1="105" y1="467.0" x2="131" y2="467.0" fill="none" stroke="#6A1B9A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="170.0" y="444.5" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#4A148C" text-anchor="start">Institutional Autonomy</text>
+<text x="170.0" y="465.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#3A3A3A" text-anchor="start">Requires full operational independence and sufficient resources to provide an authoritative, “single voice” on</text>
+<text x="170.0" y="486.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" fill="#3A3A3A" text-anchor="start">fiscal transparency and discipline.</text>
+</svg>
